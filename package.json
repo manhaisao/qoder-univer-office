@@ -1,0 +1,20 @@
+{
+  "name": "qoder-univer-office",
+  "version": "0.4.0",
+  "private": true,
+  "type": "module",
+  "description": "Univer Office for Qoder: MCP tools + skills for spreadsheets, docs, slides, bases and boards.",
+  "engines": {
+    "node": ">=22.19.0"
+  },
+  "dependencies": {
+    "@deepseek-ai/cordis": "4.0.5",
+    "@deepseek-ai/dsh-llm": "file:vendor/dsh-llm",
+    "@deepseek-ai/dsh-session": "file:vendor/dsh-session",
+    "@deepseek-ai/dsh-skill": "file:vendor/dsh-skill",
+    "@deepseek-ai/dsh-tools": "file:vendor/dsh-tools",
+    "@deepseek-ai/schemastery": "3.18.5",
+    "@modelcontextprotocol/sdk": "1.32.1",
+    "dsh-univer-office": "0.3.7"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "qoder-univer-office",
+  "displayName": "Univer Office",
+  "version": "0.4.0",
+  "description": "Create, edit, preview, and export spreadsheets, documents, slides, Base databases and Board canvases through Univer MCP tools.",
+  "descriptionZh": "通过 Univer MCP 工具创建、编辑、预览和导出表格、文档、幻灯片、多维表格与画板。",
+  "skills": [
+    "./skills"
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "name": "@deepseek-ai/dsh-skill",
+  "version": "0.0.0-qoder-shim",
+  "type": "module",
+  "exports": { ".": "./index.js" }
+}

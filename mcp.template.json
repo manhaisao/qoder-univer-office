@@ -1,0 +1,16 @@
+{
+  "mcpServers": {
+    "univer-office": {
+      "command": "__NODE__",
+      "args": [
+        "__PLUGIN_ROOT__\\server\\main.mjs"
+      ],
+      "env": {
+        "UNIVER_GATEWAY_PORT": "19090",
+        "UNIVER_RESOURCE_CACHE": "__PLUGIN_ROOT__\\.data\\resources"
+      },
+      "startup": "application",
+      "timeout": 120000
+    }
+  }
+}
